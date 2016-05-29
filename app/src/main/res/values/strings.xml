@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Controle De Pedidos</string>
+    <string name="tvNome">Nome:</string>
+    <string name="edtNome" />
+    <string name="tvDescricao">Descrição:</string>
+    <string name="edtDescricao" />
+    <string name="btn_Salvar">Salvar</string>
+    <string name="btnTelaListaProdutos">Lista de Podutos</string>
+    <string name="btnProdutos">Produtos</string>
+    <string name="btnVoltarInicial">Volta Tela Inicial</string>
+    <string name="btnCadastrarFornecedor">Cadastrar Fornecedor</string>
+    <string name="btn_LancamentoProduto">Lista de Lançamento de Produtos</string>
+    <string name="btn_LancamentoPedidos">Lançamento de Pedidos</string>
+</resources>
